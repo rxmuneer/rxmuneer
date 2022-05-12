@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rxmuneer
+- 👋 Hi, I’m @rxmuneer  ( Rizwan ) 
 - 👀 I’m interested in learning **Terraform for infra provisioning and  Terraform Certification**
 - 🌱 I’m currently learning Terraform , Ansible and AWS
 - 💞️ I’m looking to collaborate on ...
